@@ -1,0 +1,7 @@
+.hello {
+    color: red;
+    text-align: -webkit-center;
+    /* width: 100px; */
+    background: url('./icon.png') no-repeat;
+    height: 130px;
+}
